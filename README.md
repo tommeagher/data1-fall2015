@@ -21,7 +21,7 @@ In addition to doing the assigned readings and participating in the weekly class
 
 ###Class 1 - Nov. 4
 
-Let's get acquainted. What *is* data journalism? A little history.
+Let's get acquainted. What *is* data journalism? [A little history](https://www.haikudeck.com/p/GWP9Ol8aZw).
 
 Hands-on tutorials on Excel basics, filtering and pivot tables
 
@@ -100,27 +100,4 @@ Assigned readings for next week:
 ###Class 7 - Dec. 16
 Reproducibility.
 
-hour 2 - speaker:
-
-hour 3 - csvkit or R
-
-
-
-readings
-http://www.annaflagg.com/work/mislead/
-when you don't want maps
-bad charts
-hacker journalism 101
-
-
-speakers:
-Carla Astudillo
-Keith Collins
-
-
-Steve Stirling
-Gabriel Dance
-Ryann Jones
-
-
-http://www.annaflagg.com/work/mislead/
+Hands-on tutorial on either csvkit or R
