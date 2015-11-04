@@ -32,7 +32,6 @@ Sample data for exercises:
 * [Patskuls.xls](http://www.tommeagher.com/files/data/1patskuls.xls)
 * [Voterregs.xls](http://www.tommeagher.com/files/data/2voter-regs.xls)
 * [countyovertimes.xls](http://www.tommeagher.com/files/data/3county-overtimes.xls)
-* [Schoolsdatav1.xlsx](http://www.tommeagher.com/files/data/schoolsdatav1.csv)
 * [2010-2011hs-prresults.xlsx](http://www.tommeagher.com/files/data/2010-2011hs-prresults.xlsx)
 * [DemographicSnapshotEdited.xlsx](http://www.tommeagher.com/files/data/demographicsnapshot2012public.csv)
 
