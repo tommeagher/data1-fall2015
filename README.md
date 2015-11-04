@@ -46,7 +46,8 @@ Tipsheets:
 Assigned readings for next week:
 
 * "The Myth of the Machine" by Michael Berens in "[When Words & Nerds Collide](https://s3.amazonaws.com/s3.documentcloud.org/documents/757701/nerds-and-words.pdf)," 1999, Poynter Institute.
-* "Journalism and the Scientific Tradition," [Chapter 1 of "The New Precision Journalism"](https://www.unc.edu/~pmeyer/book/Chapter1.htm) by Phillip Meyer.
+* "Journalism and the Scientific Tradition," [Chapter 1 of "The New Precision Journalism"](https://www.unc.edu/~pmeyer/book/Chapter1.htm), 1991, by Philip Meyer.
+* "[You Must Learn; 5 lessons from the history of data journalism](https://vimeo.com/92782667)," lightning talk at IRE's 2014 CAR conference, Ben Welsh.
 
 ###Class 2 - Nov. 11
 
