@@ -1,5 +1,4 @@
 #Data 1
-##http://www.tommeagher.com/data-1
 
 **Instructor**: Tom Meagher, deputy managing editor at the Marshall Project
 
