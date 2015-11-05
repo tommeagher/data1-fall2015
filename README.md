@@ -54,7 +54,7 @@ How do you find data?
 
 Hands-on tutorials on string functions and other "Excel magic"
 
-Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis StarTribune
+Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis Star Tribune
 
 Assigned readings for next week:
 
@@ -83,6 +83,8 @@ Assigned readings for next week:
 
 ###Class 5 - Dec. 2
 Working with databases and asking them questions.
+
+Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
 
 Hands-on tutorial on SQLite in Firefox.
 
