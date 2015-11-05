@@ -54,6 +54,8 @@ How do you find data?
 
 Hands-on tutorials on string functions and other "Excel magic"
 
+Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis StarTribune
+
 Assigned readings for next week:
 
 * "If A Data Point Has No Context, Does It Have Any Meaning?" by Erin Simpson: https://storify.com/AthertonKD/if-a-data-point-has-no-context-does-it-have-any-me
