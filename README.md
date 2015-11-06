@@ -76,9 +76,13 @@ Assigned readings for next week:
 *  TK
 
 ###Class 4 - Date TBD
+Assignment due: FOIA request and receipt
+
 Prying structured data from unstructured formats, or why I hate PDFs.
 
 Hands-on tutorial on Comet Docs, DocumentCloud and Tabula.
+
+Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
 Assigned readings for next week:
 *  TK
@@ -99,6 +103,8 @@ Assignment due: Data Memo #2
 More on working with databases and the enterprise join.
 
 Another hands-on tutorial on SQLite in Firefox.
+
+Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
 
 Assigned readings for next week:
 *  TK
