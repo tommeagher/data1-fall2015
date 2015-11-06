@@ -70,7 +70,7 @@ Bulletproofing tips. How to avoid rookie mistakes.
 
 Hands-on tutorial on Open Refine
 
-Guest speaker: [Coulter Jones](https://twitter.com/coulterjones), data reporter at the Medpage Today and project manager of [FOIA Machine](https://www.foiamachine.org/).
+Guest speaker: [Coulter Jones](https://twitter.com/coulterjones), data reporter at Medpage Today and project manager of [FOIA Machine](https://www.foiamachine.org/).
 
 Assigned readings for next week:
 *  TK
