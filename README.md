@@ -50,7 +50,7 @@ Assigned readings for next week:
 
 ###Class 2 - Nov. 11
 
-How do you find data?
+How do you find data? You need to develop your data state of mind.
 
 Hands-on tutorials on string functions and other "Excel magic"
 
