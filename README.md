@@ -15,7 +15,7 @@ You'll also become comfortable with the basic steps of an analysis that you can 
 I work in a newsroom. I assume that you hope to do the same as quickly after graduation as possible. I'm going to treat you as I would any of my newsroom colleagues. I'll expect you to show up on time, do your homework, pay attention and ask questions. You can expect the same from me.
 When you hear something that doesn't sound right, or if something doesn't make sense or is unclear, which is entirely possible given the subject matter, ask me about it.
 
-In addition to doing the assigned readings and participating in the weekly class discussions and exercises, you will be required to report and write two data memos. We'll discuss those in our first couple of classes.
+In addition to doing the assigned readings and participating in the weekly class discussions and exercises, you will be required to report and write two data memos and to file one request for data under state or federal Freedom of Information laws. We'll discuss those in our first couple of classes.
 
 ##Schedule, resources and readings
 
@@ -87,7 +87,7 @@ Assigned readings for next week:
 *  TK
 
 ###Class 4 - Date TBD
-Assignment due: FOIA request and receipt
+**Assignment due**: FOIA request and receipt
 
 Prying structured data from unstructured formats, or why I hate PDFs.
 
@@ -109,7 +109,7 @@ Assigned readings for next week:
 *  TK
 
 ###Class 6 - Dec. 9
-Assignment due: Data Memo #2
+**Assignment due**: Data Memo #2
 
 More on working with databases and the enterprise join.
 
