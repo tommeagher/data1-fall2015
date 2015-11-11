@@ -56,6 +56,16 @@ Hands-on tutorials on string functions and other "Excel magic"
 
 Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis Star Tribune
 
+Sample data for exercises:
+* [DemographicSnapshotEdited.xlsx](http://www.tommeagher.com/files/data/demographicsnapshot2012public.csv)
+* [Alaska_Louisiana.xls](http://www.tommeagher.com/files/data/Alaska_Louisiana.xls)
+* [ExcelMagic.xlsx](http://www.tommeagher.com/files/data/ExcelMagic.xlsx)
+* [payrolldelimited3.txt](http://www.tommeagher.com/files/data/payrolldelimited3.txt)
+
+Tipsheets:
+* [Excel filters and pivot tables](http://data.nicar.org/training/NBC4/Handouts/xlpivot_updated.pdf)
+* MaryJo Webster's [Excel "Magic"](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf)
+
 Assigned readings for next week:
 
 * "If A Data Point Has No Context, Does It Have Any Meaning?" by Erin Simpson: https://storify.com/AthertonKD/if-a-data-point-has-no-context-does-it-have-any-me
@@ -90,7 +100,7 @@ Assigned readings for next week:
 ###Class 5 - Dec. 2
 Working with databases and asking them questions.
 
-Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
+Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
 
 Hands-on tutorial on SQLite in Firefox.
 
@@ -104,7 +114,7 @@ More on working with databases and the enterprise join.
 
 Another hands-on tutorial on SQLite in Firefox.
 
-Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
+Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
 
 Assigned readings for next week:
 *  TK
