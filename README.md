@@ -40,7 +40,7 @@ Tipsheets:
 * [Getting around Excel](http://www.tommeagher.com/files/tips/xlgetaround.doc)
 * [Sorting in Excel](http://www.tommeagher.com/files/tips/xlsort.doc)
 * [Power formulas in Excel](http://www.tommeagher.com/files/tips/xlpowerformula.doc)
-* [Excel filters and pivot tables](http://data.nicar.org/training/NBC4/Handouts/xlpivot_updated.pdf)
+* [Excel filters and pivot tables](https://github.com/tommeagher/data1-fall2015/raw/master/tipsheets/excel/xlpivot_updated.pdf)
 
 Assigned readings for next week:
 
@@ -63,13 +63,14 @@ Sample data for exercises:
 * [payrolldelimited3.txt](http://www.tommeagher.com/files/data/payrolldelimited3.txt)
 
 Tipsheets:
-* [Excel filters and pivot tables](http://data.nicar.org/training/NBC4/Handouts/xlpivot_updated.pdf)
+* [Excel filters and pivot tables](https://github.com/tommeagher/data1-fall2015/raw/master/tipsheets/excel/xlpivot_updated.pdf)
 * MaryJo Webster's [Excel "Magic"](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf)
 
 Assigned readings for next week:
 
-* "If A Data Point Has No Context, Does It Have Any Meaning?" by Erin Simpson: https://storify.com/AthertonKD/if-a-data-point-has-no-context-does-it-have-any-me
-* "The Five Stages of Terrible Data", by Steven Rich: https://player.vimeo.com/video/122459415
+* "[Hundreds of Police Killings Are Uncounted in Federal Stats](http://www.wsj.com/articles/hundreds-of-police-killings-are-uncounted-in-federal-statistics-1417577504)" by Rob Barry and Coulter Jones, Wall Street Journal
+* "[If A Data Point Has No Context, Does It Have Any Meaning?](https://storify.com/AthertonKD/if-a-data-point-has-no-context-does-it-have-any-me)" by Erin Simpson.
+* "[The Five Stages of Terrible Data](https://player.vimeo.com/video/122459415)", lightning talk at IRE's 2015 CAR conference, Steven Rich.
 
 ###Class 3 - Nov. 18
 **Assignment due**: Data memo #1
