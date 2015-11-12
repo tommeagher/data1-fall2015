@@ -2,7 +2,7 @@
 
 **Instructor**: Tom Meagher, deputy managing editor at the Marshall Project
 
-**How to reach me**: The best way to get ahold of me is by emailing me at tfm2101@columbia.edu. You can also find me on twitter @ultracasual
+**How to reach me**: The best way to get ahold of me is by emailing me at tfm2101@columbia.edu. You can also find me on Twitter at [@ultracasual](https://www.twitter.com/ultracasual)
 
 
 ###Course description##
@@ -23,7 +23,7 @@ In addition to doing the assigned readings and participating in the weekly class
 
 Let's get acquainted. What *is* data journalism? [A little history](https://www.haikudeck.com/p/GWP9Ol8aZw).
 
-Hands-on tutorials on Excel basics, filtering and pivot tables
+Hands-on tutorials on Excel basics, sorting and filtering.
 
 Sample data for exercises:
 * [Appointments.xls](http://www.tommeagher.com/files/data/3appointmentsclass.xls)
@@ -52,19 +52,16 @@ Assigned readings for next week:
 
 How do you find data? You need to develop your data state of mind.
 
-Hands-on tutorials on string functions and other "Excel magic"
+Hands-on tutorials pivot tables in Excel
 
 Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis Star Tribune
 
 Sample data for exercises:
 * [DemographicSnapshotEdited.xlsx](http://www.tommeagher.com/files/data/demographicsnapshot2012public.csv)
 * [Alaska_Louisiana.xls](http://www.tommeagher.com/files/data/Alaska_Louisiana.xls)
-* [ExcelMagic.xlsx](http://www.tommeagher.com/files/data/ExcelMagic.xlsx)
-* [payrolldelimited3.txt](http://www.tommeagher.com/files/data/payrolldelimited3.txt)
 
 Tipsheets:
 * [Excel filters and pivot tables](https://github.com/tommeagher/data1-fall2015/raw/master/tipsheets/excel/xlpivot_updated.pdf)
-* MaryJo Webster's [Excel "Magic"](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf)
 
 Assigned readings for next week:
 
@@ -79,12 +76,19 @@ All Data Is Terrible; aka How the hell do you "clean" data?
 
 Bulletproofing tips. How to avoid rookie mistakes.
 
-Hands-on tutorial on Open Refine
+Hands-on tutorial on Excel Magic and Open Refine
+
+Sample data for exercises:
+* [ExcelMagic.xlsx](http://www.tommeagher.com/files/data/ExcelMagic.xlsx)
+* [payrolldelimited3.txt](http://www.tommeagher.com/files/data/payrolldelimited3.txt)
+
+Tipsheets:
+* MaryJo Webster's [Excel "Magic"](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf)
 
 Guest speaker: [Coulter Jones](https://twitter.com/coulterjones), data reporter at Medpage Today and project manager of [FOIA Machine](https://www.foiamachine.org/).
 
 Assigned readings for next week:
-*  TK
+* "[Big Trouble in Little Data](http://www.wnyc.org/story/big-trouble-little-data/)," by Noah Veltman, WNYC
 
 ###Class 4 - Date TBD
 **Assignment due**: FOIA request and receipt
