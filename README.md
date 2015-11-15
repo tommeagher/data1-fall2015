@@ -81,9 +81,13 @@ Hands-on tutorial on Excel Magic and Open Refine
 Sample data for exercises:
 * [ExcelMagic.xlsx](http://www.tommeagher.com/files/data/ExcelMagic.xlsx)
 * [payrolldelimited3.txt](http://www.tommeagher.com/files/data/payrolldelimited3.txt)
+* [lotterywinners.csv](http://www.tommeagher.com/files/data/lotterywinners.csv)
+* [nj-hospital-2012.xls](http://www.tommeagher.com/files/data/nj-hospital-2012.xls)
+* [nassau_police_union_contribs.xls](http://www.tommeagher.com/files/data/nassau_police_union_contribs.xls)
 
 Tipsheets:
 * MaryJo Webster's [Excel "Magic"](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf)
+* Key functions in [Open Refine](https://docs.google.com/document/d/1kRoK6oDtgRO-g1KAHBMaAFPFOEGYsr5p5kpllRIn_og/edit?usp=sharing)
 
 Guest speaker: [Coulter Jones](https://twitter.com/coulterjones), data reporter at Medpage Today and project manager of [FOIA Machine](https://www.foiamachine.org/).
 
