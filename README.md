@@ -52,6 +52,8 @@ Assigned readings for next week:
 
 How do you find data? You need to develop your data state of mind.
 
+Talk about the data memo assignment and the [memo template](https://github.com/tommeagher/data1-fall2015/blob/master/data-memo-outline.md).
+
 Hands-on tutorials pivot tables in Excel
 
 Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis Star Tribune
@@ -74,6 +76,8 @@ Assigned readings for next week:
 
 All Data Is Terrible; aka How the hell do you "clean" data?
 
+Talk about the FOIA assignment and the [sample FOIA letter](https://github.com/tommeagher/data1-fall2015/blob/master/foia-letter-sample.md).
+
 Bulletproofing tips. How to avoid rookie mistakes.
 
 Hands-on tutorial on Excel Magic and Open Refine
@@ -88,11 +92,14 @@ Sample data for exercises:
 Tipsheets:
 * MaryJo Webster's [Excel "Magic"](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf)
 * Key functions in [Open Refine](https://docs.google.com/document/d/1kRoK6oDtgRO-g1KAHBMaAFPFOEGYsr5p5kpllRIn_og/edit?usp=sharing)
+* [How to avoid rookie mistakes](https://mjwebster.github.io/DataJ/Other/RookieMistakes.pdf)
+* [Checklist to bulletproof your work](http://www.tommeagher.com/blog/2012/06/checklist.html)
 
 Guest speaker: [Coulter Jones](https://twitter.com/coulterjones), data reporter at Medpage Today and project manager of [FOIA Machine](https://www.foiamachine.org/).
 
 Assigned readings for next week:
 * "[Big Trouble in Little Data](http://www.wnyc.org/story/big-trouble-little-data/)," by Noah Veltman, WNYC
+* "[Bulletproofing the data project](https://github.com/sarahcnyt/stabile/blob/master/docs/bulletproof.md)," by Sarah Cohen, The New York Times
 
 ###Class 4 - Date TBD
 **Assignment due**: FOIA request and receipt
