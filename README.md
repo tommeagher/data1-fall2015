@@ -54,7 +54,7 @@ How do you find data? You need to develop your data state of mind.
 
 Talk about the data memo assignment and the [memo template](https://github.com/tommeagher/data1-fall2015/blob/master/data-memo-outline.md).
 
-Hands-on tutorials pivot tables in Excel
+Hands-on tutorial on pivot tables in Excel
 
 Guest speaker: [MaryJo Webster](https://twitter.com/maryjowebster), computer-assisted reporting editor at the Minneapolis Star Tribune
 
@@ -80,7 +80,7 @@ Talk about the FOIA assignment and the [sample FOIA letter](https://github.com/t
 
 Bulletproofing tips. How to avoid rookie mistakes.
 
-Hands-on tutorial on Excel Magic and Open Refine
+Hands-on tutorials on Excel Magic and Open Refine
 
 Sample data for exercises:
 * [ExcelMagic.xlsx](http://www.tommeagher.com/files/data/ExcelMagic.xlsx)
@@ -100,6 +100,7 @@ Guest speaker: [Coulter Jones](https://twitter.com/coulterjones), data reporter 
 Assigned readings for next week:
 * "[Big Trouble in Little Data](http://www.wnyc.org/story/big-trouble-little-data/)," by Noah Veltman, WNYC
 * "[Bulletproofing the data project](https://github.com/sarahcnyt/stabile/blob/master/docs/bulletproof.md)," by Sarah Cohen, The New York Times
+* "Using People, Not Numbers, To Tell The Story" by Sarah Cohen in "[When Words and Nerds Collide](https://s3.amazonaws.com/s3.documentcloud.org/documents/757701/nerds-and-words.pdf)," pp. 16-18, 1999, Poynter Institute.
 
 ###Class 4 - Date TBD
 **Assignment due**: FOIA request and receipt
