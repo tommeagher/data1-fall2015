@@ -1,6 +1,6 @@
 #Data 1
 
-**Instructor**: Tom Meagher, deputy managing editor at the Marshall Project
+**Instructor**: Tom Meagher, deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/)
 
 **How to reach me**: The best way to get ahold of me is by emailing me at tfm2101@columbia.edu. You can also find me on Twitter at [@ultracasual](https://www.twitter.com/ultracasual)
 
