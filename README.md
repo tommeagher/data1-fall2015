@@ -105,7 +105,7 @@ Assigned readings for next week:
 ###Class 4 - Date TBD
 Bulletproofing, FOIA and recapping what we've learned so far.
 
-Tutorials on topics tbd by class consensus, reviewing basic Excel and OpenRefine.
+Tutorials on topics tbd, reviewing basic Excel and OpenRefine.
 
 Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
