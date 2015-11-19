@@ -103,11 +103,9 @@ Assigned readings for next week:
 * "Using People, Not Numbers, To Tell The Story" by Sarah Cohen in "[When Words and Nerds Collide](https://s3.amazonaws.com/s3.documentcloud.org/documents/757701/nerds-and-words.pdf)," pp. 16-18, 1999, Poynter Institute.
 
 ###Class 4 - Date TBD
-**Assignment due**: FOIA request and receipt
+Bulletproofing, FOIA and recapping what we've learned so far.
 
-Prying structured data from unstructured formats, or why I hate PDFs.
-
-Hands-on tutorial on Comet Docs, DocumentCloud and Tabula.
+Tutorials on topics tbd by class consensus, reviewing basic Excel and OpenRefine.
 
 Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
@@ -115,6 +113,8 @@ Assigned readings for next week:
 *  TK
 
 ###Class 5 - Dec. 2
+**Assignment due**: FOIA request and receipt
+
 Working with databases and asking them questions.
 
 Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
@@ -137,6 +137,9 @@ Assigned readings for next week:
 *  TK
 
 ###Class 7 - Dec. 16
+
+Prying structured data from unstructured formats, or why I hate PDFs.
+
 Reproducibility.
 
-Hands-on tutorial on either csvkit or R
+Hands-on tutorial on Comet Docs, DocumentCloud and Tabula or on either csvkit or R
