@@ -103,9 +103,9 @@ Assigned readings for next week:
 * "Using People, Not Numbers, To Tell The Story" by Sarah Cohen in "[When Words and Nerds Collide](https://s3.amazonaws.com/s3.documentcloud.org/documents/757701/nerds-and-words.pdf)," pp. 16-18, 1999, Poynter Institute.
 
 ###Class 4 - Date TBD
-Bulletproofing, FOIA and recapping what we've learned so far.
+FOIA strategies and avoiding rookie data mistakes.
 
-Tutorials on topics tbd, reviewing basic Excel and OpenRefine.
+Tutorials practicing Excel and OpenRefine.
 
 Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
