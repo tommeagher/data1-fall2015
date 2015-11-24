@@ -102,15 +102,16 @@ Assigned readings for next week:
 * "[Bulletproofing the data project](https://github.com/sarahcnyt/stabile/blob/master/docs/bulletproof.md)," by Sarah Cohen, The New York Times
 * "Using People, Not Numbers, To Tell The Story" by Sarah Cohen in "[When Words and Nerds Collide](https://s3.amazonaws.com/s3.documentcloud.org/documents/757701/nerds-and-words.pdf)," pp. 16-18, 1999, Poynter Institute.
 
-###Class 4 - Date TBD
+###Class 4 - Nov. 24
 FOIA strategies and avoiding rookie data mistakes.
 
 Tutorials practicing Excel and OpenRefine.
 
 Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
-Assigned readings for next week:
-*  TK
+Sample data for exercises:
+* [nj-hospital-2012.xls](http://www.tommeagher.com/files/data/nj-hospital-2012.xls)
+* [nassau_police_union_contribs.xls](http://www.tommeagher.com/files/data/nassau_police_union_contribs.xls)
 
 ###Class 5 - Dec. 2
 **Assignment due**: FOIA request and receipt
