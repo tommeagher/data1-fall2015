@@ -128,7 +128,7 @@ Assigned readings for next week:
 ###Class 6 - Dec. 9
 **Assignment due**: Data Memo #2
 
-More on working with databases and the enterprise join.
+More on databases and how to join them together to find new stories.
 
 Another hands-on tutorial on SQLite in Firefox.
 
