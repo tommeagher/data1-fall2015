@@ -109,7 +109,7 @@ Tutorials practicing Excel and OpenRefine.
 Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
 Tipsheets:
-* Jennifer LaFleur's advice on "[Negotiating for Electronic Records](tipsheets/foia/T671.pdf" (pp. 4-11)
+* Jennifer LaFleur's advice on "[Negotiating for Electronic Records](tipsheets/foia/T671.pdf]" (pp. 4-11)
 
 Sample data for exercises:
 * [nj-hospital-2012.xls](http://www.tommeagher.com/files/data/nj-hospital-2012.xls)
