@@ -4,7 +4,6 @@
 
 **How to reach me**: The best way to get ahold of me is by emailing me at tfm2101@columbia.edu. You can also find me on Twitter at [@ultracasual](https://www.twitter.com/ultracasual)
 
-
 ###Course description##
 
 In this seven-week introduction to data journalism, you'll be exposed to the history of the craft of numerate reporting.
@@ -109,6 +108,9 @@ Tutorials practicing Excel and OpenRefine.
 
 Guest speaker: [Stacy Jones](https://twitter.com/stacyannj), Data Editor at Fortune.com
 
+Tipsheets:
+* Jennifer LaFleur's advice on "[Negotiating for Electronic Records](tipsheets/foia/T671.pdf" (pp. 4-11)
+
 Sample data for exercises:
 * [nj-hospital-2012.xls](http://www.tommeagher.com/files/data/nj-hospital-2012.xls)
 * [nassau_police_union_contribs.xls](http://www.tommeagher.com/files/data/nassau_police_union_contribs.xls)
@@ -116,21 +118,27 @@ Sample data for exercises:
 ###Class 5 - Dec. 2
 **Assignment due**: FOIA request and receipt
 
-Working with databases and asking them questions.
+Moving to the next level, a gentle introduction to R.
 
 Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
 
-Hands-on tutorial on SQLite in Firefox.
+Hands-on tutorial on R and R Studio.
+
+Tipsheets:
+* [The official R Studio Data Wrangling cheat sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+* [A gentle introductory tutorial to R](https://github.com/CoulterJones/IRE-2015/blob/master/IRE2015_R_Class.R) by Annie Waldman, Ryann Grochowski Jones and Coulter Jones
+* [Resources for doing data journalism with R](http://rddj.info/)
 
 Assigned readings for next week:
-*  TK
+* "[Basic Steps in Working With Data](http://datajournalismhandbook.org/1.0/en/understanding_data_2.html)" chapter by Steve Doig of Data Journalism Handbook
+* "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" chapter by Gregor Aisch of Data Journalism Handbook
 
 ###Class 6 - Dec. 9
 **Assignment due**: Data Memo #2
 
-More on databases and how to join them together to find new stories.
+More on working with R dataframes and joining them together.
 
-Another hands-on tutorial on SQLite in Firefox.
+Another hands-on tutorial on hands-on tutorial on R and R Studio.
 
 Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
 
@@ -140,7 +148,5 @@ Assigned readings for next week:
 ###Class 7 - Dec. 16
 
 Prying structured data from unstructured formats, or why I hate PDFs.
-
-Reproducibility.
 
 Hands-on tutorial on Comet Docs, DocumentCloud and Tabula or on either csvkit or R
