@@ -120,9 +120,9 @@ Sample data for exercises:
 
 Moving to the next level, a gentle introduction to R.
 
-Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
+If you're using your own machine, be sure to [install R](https://cran.rstudio.com/) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/) before we start the tutorial.
 
-Hands-on tutorial on R and R Studio.
+Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
 
 Tipsheets:
 * [The official R Studio Data Wrangling cheat sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
