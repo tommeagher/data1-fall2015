@@ -118,11 +118,14 @@ Sample data for exercises:
 ###Class 5 - Dec. 2
 **Assignment due**: FOIA request and receipt
 
-Moving to the next level, a gentle introduction to R.
+Moving to the next level, an introduction to R.
 
 If you're using your own machine, be sure to [install R](https://cran.rstudio.com/) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/) before we start the tutorial.
 
 Guest speaker: [Carla Astudillo](https://twitter.com/carla_astudi), data journalist at the International Business Times.
+
+Sample data for exercises:
+* [exonerations-20150828.csv](https://raw.githubusercontent.com/tommeagher/data1-fall2015/master/datasets/r/exonerations-20150828.csv)
 
 Tipsheets:
 * [The official R Studio Data Wrangling cheat sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
@@ -149,4 +152,4 @@ Assigned readings for next week:
 
 Prying structured data from unstructured formats, or why I hate PDFs.
 
-Hands-on tutorial on Comet Docs, DocumentCloud and Tabula or on either csvkit or R
+Hands-on tutorial on Comet Docs, DocumentCloud and Tabula or more practice with R
