@@ -141,12 +141,9 @@ Assigned readings for next week:
 
 More on working with R dataframes and joining them together.
 
-Another hands-on tutorial on hands-on tutorial on R and R Studio.
+Another hands-on tutorial on R and R Studio.
 
 Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
-
-Assigned readings for next week:
-*  TK
 
 ###Class 7 - Dec. 16
 
