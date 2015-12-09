@@ -145,6 +145,9 @@ Another hands-on tutorial on R and R Studio.
 
 Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
 
+Assigned reading for next week:
+* "[Quartz's Bad Data Guide](https://github.com/Quartz/bad-data-guide)"
+
 ###Class 7 - Dec. 16
 
 Prying structured data from unstructured formats, or why I hate PDFs.
