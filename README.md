@@ -145,6 +145,8 @@ Another hands-on tutorial on R and R Studio.
 
 Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data reporter at ProPublica
 
+Tipsheets:
+* "[Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/),"" Zed Shaw's excellent class on getting comfortable with the command line
 Assigned reading for next week:
 * "[Quartz's Bad Data Guide](https://github.com/Quartz/bad-data-guide)"
 
