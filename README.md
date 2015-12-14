@@ -147,6 +147,7 @@ Guest speaker: [Ryann Grochowski Jones](http://twitter.com/ryanngro), data repor
 
 Tipsheets:
 * "[Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/),"" Zed Shaw's excellent class on getting comfortable with the command line
+
 Assigned reading for next week:
 * "[Quartz's Bad Data Guide](https://github.com/Quartz/bad-data-guide)"
 
@@ -155,3 +156,7 @@ Assigned reading for next week:
 Prying structured data from unstructured formats, or why I hate PDFs.
 
 Hands-on tutorial on Comet Docs, DocumentCloud and Tabula or more practice with R
+
+Tipsheets:
+* "[A Gentle Introduction to SQL](https://github.com/tthibo/SQL-Tutorial)" by Troy Thibodeaux
+* "[SQLBolt](http://sqlbolt.com/)" Introduction to SQL
