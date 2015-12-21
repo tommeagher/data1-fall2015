@@ -158,4 +158,8 @@ More work with R and reporting with data from start to finish.
 Tipsheets:
 * "[A Gentle Introduction to SQL](https://github.com/tthibo/SQL-Tutorial)" by Troy Thibodeaux
 * "[SQLBolt](http://sqlbolt.com/)" Introduction to SQL
+* "[Data analysis and visualization using R](http://varianceexplained.org/RData/)" by Variance Explained
+* "[Try R](http://tryr.codeschool.com/)" by Code School
+* "[Beginner's Guide to R](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)" by Sharon Machlis
 * "[Scraping PDFs with Tabula](http://computers.tutsplus.com/tutorials/how-to-extract-data-from-tables-in-pdfs-with-tabula-and-openrefine--cms-20843)"
+* "[R Course](http://stcorp.nl/R_course/)" by Paul Hiemstra
